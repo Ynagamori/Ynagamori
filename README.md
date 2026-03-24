@@ -1,6 +1,7 @@
 ## About Me
 
 Webエンジニアとして、フロントエンドからバックエンドまで幅広く開発に携わっています。<br/>
+最近はAI向けのアーキテクチャをいろいろ試しています。
 
 ## Tech Stack
 
@@ -26,6 +27,8 @@ Webエンジニアとして、フロントエンドからバックエンドま�
 **Infrastructure**
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## GitHub Stats
 
